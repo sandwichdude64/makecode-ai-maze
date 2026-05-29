@@ -1,7 +1,7 @@
 {
   "name": "ai-maze",
-  "version": "0.0.2",
-  "description": "AI maze solver using Cloudflare Workers AI",
+  "version": "0.0.3",
+  "description": "AI maze solver using Cloudflare Worker",
   "files": [
     "main.ts"
   ],
